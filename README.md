@@ -29,7 +29,6 @@ skillkit install almoghrs/lotem-awesome-skills
 | Skill | Description |
 |-------|-------------|
 | [cli-copilot-review-loop](skills/cli-copilot-review-loop) | Iterative CLI-based code review loop with an AI copilot agent |
-| [create-skill](skills/create-skill) | Scaffold a new AgentSkills-compatible skill following registry conventions |
 | [skill-creator](skills/skill-creator) | Create, evaluate, and iteratively improve skills with benchmarking and description optimization — sourced from [anthropics/skills](https://github.com/anthropics/skills) |
 
 ## Contributing
